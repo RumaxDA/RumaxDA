@@ -1,12 +1,12 @@
 ### Hi there, I'm Dawid 👋
 
-I am a 5th-year Computer Science Master's student and an aspiring backend developer. My primary focus is designing robust, scalable RESTful APIs with a strong emphasis on clean architecture, data validation, and asynchronous processing. 
+I am a 5th-year Computer Science Master's student and an aspiring backend developer. My primary focus is designing scalable RESTful APIs with a strong emphasis on clean architecture, data validation, and asynchronous processing. 
 
 While I can build frontend interfaces to deliver complete full-stack applications, my real passion and expertise lie strictly in backend engineering and machine learning integrations.
 
 ### 🎯 Core Focus & Workflow
 
-*   **Backend Engineering:** Specializing in Python, I build systems using FastAPI and Django. I focus on separating business logic (Service Layer pattern), writing comprehensive tests, and managing background tasks (using tools like Celery and Redis).
+*   **Backend Engineering:** Specializing in Python, I build systems using FastAPI and Django. I focus on separating business logic (Service Layer pattern), writing tests, and managing background tasks (using tools like Celery and Redis).
 *   **Computer Vision:** I actively combine my backend skills with machine learning. I have experience training and deploying custom CNNs, adapting EfficientNet-B0 models, and utilizing YOLO architectures for object detection and classification within web APIs.
 *   **AI-Assisted Development:** I integrate AI agents into my daily workflow. I use them to accelerate development, verify code logic, and maintain high code quality standards, allowing me to focus on complex architectural problems.
 
