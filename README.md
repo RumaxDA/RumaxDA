@@ -1,8 +1,8 @@
 ### Hi there, I'm Dawid 👋
 
-I am a 5th-year Computer Science Master's student and an aspiring backend developer. My primary focus is designing scalable RESTful APIs with a strong emphasis on clean architecture, data validation, and asynchronous processing. 
+I am a Computer Science Master's student and a Backend & AI Engineer. My primary focus is designing scalable RESTful APIs with a strong emphasis on clean architecture, data validation, and asynchronous processing. 
 
-While I can build frontend interfaces to deliver complete full-stack applications, my real passion and expertise lie strictly in backend engineering and machine learning integrations.
+While I can build frontend interfaces to deliver complete full-stack applications, my real passion lies in backend engineering, computer vision, and machine learning integrations.
 
 ### 🎯 Core Focus & Workflow
 
@@ -22,10 +22,10 @@ While I can build frontend interfaces to deliver complete full-stack application
 ### 🚀 Featured Projects
 
 **[Road Signs Classification API](https://github.com/RumaxDA/road-signs-classification)**
-A FastAPI backend that asynchronously processes road sign detections from images. It integrates custom CNN and EfficientNet-B0 models for classification, and YOLOv8 for detection, logging results seamlessly into a PostgreSQL database.
+A complete end-to-end application featuring a FastAPI backend that asynchronously processes road sign detections from images. It integrates a two-stage machine learning pipeline (YOLOv8 for detection, custom CNN and EfficientNet-B0 for classification) and logs processing results seamlessly into a PostgreSQL database.
 
 **[Car Rental API](https://github.com/RumaxDA/rent_car_django)**
-A strictly backend-only Django REST API built with the Service Layer pattern. It features advanced Role-Based Access Control, automated background tasks with Celery/Redis, and automated CI pipelines (GitHub Actions) for linting and executing Pytest suites within a Dockerized database environment.
+A backend-only Django REST API built with the Service Layer pattern and deployed on AWS. It features advanced Role-Based Access Control, automated background tasks with Celery/Redis, and automated CI pipelines (GitHub Actions) for linting and executing Pytest suites within a Dockerized database environment.
 
 **[Amateur Football League Management System](https://github.com/RumaxDA/amateur-football-league)**
 A fully containerized system managing amateur sports leagues. It utilizes a FastAPI backend to handle complex tournament logic, real-time match events, and secure JWT authentication, served to an Angular Material frontend.
