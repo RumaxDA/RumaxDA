@@ -8,7 +8,9 @@ While I can build frontend interfaces to deliver complete full-stack application
 
 *   **Backend Engineering:** Specializing in Python, I build systems using FastAPI and Django. I focus on separating business logic (Service Layer pattern), writing tests, and managing background tasks (using tools like Celery and Redis).
 *   **Computer Vision:** I actively combine my backend skills with machine learning. I have experience training and deploying custom CNNs, adapting EfficientNet-B0 models, and utilizing YOLO architectures for object detection and classification within web APIs.
-*   **AI-Assisted Development:** I integrate AI agents into my daily workflow. I use them to accelerate development, verify code logic, and maintain high code quality standards, allowing me to focus on complex architectural problems.
+*   **Web Scraping & Data Processing:** I develop scalable web scraping solutions using Python to collect data from various online sources. I work with HTML and JSON responses, perform data cleaning and transformation, and prepare structured datasets for analysis, automation, and downstream applications.
+*   **Data Analysis:** I analyze and process collected data using Python, transforming raw information into meaningful insights through data validation, aggregation, and exploratory analysis. I focus on producing clean, reliable datasets that support informed decision-making.
+
 
 ### 💻 Tech Stack
 
@@ -18,6 +20,7 @@ While I can build frontend interfaces to deliver complete full-stack application
 *   **Machine Learning:** TensorFlow, Keras, YOLO
 *   **DevOps & Architecture:** Docker, Docker Compose, GitHub Actions (CI), Gunicorn, Nginx
 *   **Testing:** Pytest, Flake8, Black
+*   **Web Scraping:** XPath, lxml, JSON
 
 ### 🚀 Featured Projects
 
