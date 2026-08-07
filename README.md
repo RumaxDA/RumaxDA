@@ -1,6 +1,6 @@
 ### Hi there, I'm Dawid 👋
 
-I am a Computer Science Master's student and a Backend & AI Engineer. My primary focus is designing scalable RESTful APIs with a strong emphasis on clean architecture, data validation, and asynchronous processing. 
+I am a Python/Backend & AI Engineer. My primary focus is designing scalable RESTful APIs with a strong emphasis on clean architecture, data validation, and asynchronous processing. 
 
 While I can build frontend interfaces to deliver complete full-stack applications, my real passion lies in backend engineering, computer vision, and machine learning integrations.
 
